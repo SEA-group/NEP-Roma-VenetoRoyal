@@ -1,0 +1,9 @@
+<IAS001_IMAM_Ro_43_Roma.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/Veneto/ISB508_Roma/aircraft/IAS001_IMAM_Ro_43_Roma_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/aircraft/IAS001_IMAM_Ro_43_Roma	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IAS001_IMAM_Ro_43_Roma.model>

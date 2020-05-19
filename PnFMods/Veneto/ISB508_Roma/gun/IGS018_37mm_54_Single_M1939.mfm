@@ -1,0 +1,17 @@
+<IGS018_37mm_54_Single_M1939.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Veneto/ISB508_Roma/gun/IGS018_37mm_54_Single_M1939_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Veneto/ISB508_Roma/gun/IGS018_37mm_54_Single_M1939_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/Veneto/ISB508_Roma/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Veneto/ISB508_Roma/gun/IGS018_37mm_54_Single_M1939_mg.dds	</Texture>
+	</property>
+</IGS018_37mm_54_Single_M1939.mfm>

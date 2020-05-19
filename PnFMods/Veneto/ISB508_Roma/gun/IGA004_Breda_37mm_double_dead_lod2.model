@@ -1,0 +1,9 @@
+<IGA004_Breda_37mm_double_dead_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGA004_Breda_37mm_double_dead_lod3	</parent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<extent>	15.0000	</extent>
+	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGA004_Breda_37mm_double_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IGA004_Breda_37mm_double_dead_lod2.model>

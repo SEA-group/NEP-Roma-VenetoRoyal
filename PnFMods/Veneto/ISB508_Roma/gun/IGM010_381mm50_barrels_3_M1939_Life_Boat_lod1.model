@@ -1,0 +1,8 @@
+<IGM010_381mm50_barrels_3_M1939_Life_Boat_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGM010_381mm50_barrels_3_M1939_Life_Boat_lod2	</parent>
+	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGM010_381mm50_barrels_3_M1939_Life_Boat_lod1	</nodefullVisual>
+	<castsShadow>	true	</castsShadow>
+	<extent>	8.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IGM010_381mm50_barrels_3_M1939_Life_Boat_lod1.model>
