@@ -1,6 +1,6 @@
 <IC002_Catapult.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/catapult/IC002_Catapult_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/catapult/lods/IC002_Catapult_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/catapult/IC002_Catapult	</nodefullVisual>

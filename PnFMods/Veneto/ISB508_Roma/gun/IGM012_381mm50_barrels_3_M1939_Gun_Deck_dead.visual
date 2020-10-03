@@ -38,7 +38,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunXDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/gun/IGM012_381mm50_barrels_3_M1939_Life_Boat_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	Blue_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX1Dead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX1Dead	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/gun/IGM012_381mm50_barrels_3_M1939_blue_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

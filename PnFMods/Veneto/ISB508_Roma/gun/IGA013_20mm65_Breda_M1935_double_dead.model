@@ -1,6 +1,6 @@
 <IGA013_20mm65_Breda_M1935_double_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGA013_20mm65_Breda_M1935_double_dead_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGA013_20mm65_Breda_M1935_double_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGA013_20mm65_Breda_M1935_double_dead	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>

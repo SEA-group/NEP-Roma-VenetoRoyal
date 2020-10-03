@@ -74,7 +74,7 @@
 			<primitive>	IRS015_EC3_terShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/radar/IRS015_EC3_ter_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -43,7 +43,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/gun/IGA013_20mm65_Breda_M1935_double.mfm	</mfm>
 				</material>
 			</primitiveGroup>

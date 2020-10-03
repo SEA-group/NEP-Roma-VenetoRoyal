@@ -1,6 +1,6 @@
 <IGA004_Breda_37mm_double_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGA004_Breda_37mm_double_dead_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGA004_Breda_37mm_double_dead_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

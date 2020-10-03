@@ -1,6 +1,6 @@
 <IGM011_381mm50_barrels_3_M1939_Tower.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGM011_381mm50_barrels_3_M1939_Tower_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGM011_381mm50_barrels_3_M1939_Tower_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

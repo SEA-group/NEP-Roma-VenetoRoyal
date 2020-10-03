@@ -148,7 +148,7 @@
 			<primitive>	IC002_CatapultShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/catapult/IC002_Catapult_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	cradle1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/catapult/IC002_Catapult_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

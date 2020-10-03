@@ -2,7 +2,7 @@
 	<exporter>	1.6	</exporter>
 	<materialNames />
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGA004_Breda_37mm_double_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGA004_Breda_37mm_double_lod1	</parent>
 	<castsShadow>	false	</castsShadow>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGA004_Breda_37mm_double	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

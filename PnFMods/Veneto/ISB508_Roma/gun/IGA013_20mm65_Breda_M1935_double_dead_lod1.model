@@ -1,8 +1,0 @@
-<IGA013_20mm65_Breda_M1935_double_dead_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGA013_20mm65_Breda_M1935_double_dead_lod2	</parent>
-	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGA013_20mm65_Breda_M1935_double_dead_lod1	</nodefullVisual>
-	<extent>	8.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</IGA013_20mm65_Breda_M1935_double_dead_lod1.model>

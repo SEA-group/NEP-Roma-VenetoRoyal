@@ -29,7 +29,7 @@
 			<primitive>	ID014_Director_HA_3m_SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/director/ID014_Director_HA_3m_Stern.mfm	</mfm>
 				</material>
 			</primitiveGroup>

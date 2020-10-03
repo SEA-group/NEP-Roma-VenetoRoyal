@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/radar/IRS015_EC3_ter_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/radar/lods/IRS015_EC3_ter_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/radar/IRS015_EC3_ter	</nodefullVisual>

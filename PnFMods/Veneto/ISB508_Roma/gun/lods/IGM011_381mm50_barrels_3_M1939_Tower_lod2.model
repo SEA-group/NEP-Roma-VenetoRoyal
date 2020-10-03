@@ -1,0 +1,8 @@
+<IGM011_381mm50_barrels_3_M1939_Tower_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGM011_381mm50_barrels_3_M1939_Tower_lod3	</parent>
+	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGM011_381mm50_barrels_3_M1939_Tower_lod2	</nodefullVisual>
+	<castsShadow>	true	</castsShadow>
+	<extent>	25.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IGM011_381mm50_barrels_3_M1939_Tower_lod2.model>

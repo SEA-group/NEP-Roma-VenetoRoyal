@@ -1,6 +1,6 @@
 <IGS014_152mm55_barrels_3_M1936_L_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/gun/IGS014_152mm55_barrels_3_M1936_L_dead_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/gun/lods/IGS014_152mm55_barrels_3_M1936_L_dead_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/gun/IGS014_152mm55_barrels_3_M1936_L_dead	</nodefullVisual>

@@ -38,7 +38,7 @@
 			<primitive>	directorShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/director/ID008_DCT_7_2m_Torretta_Roma_Top.mfm	</mfm>
 				</material>
 			</primitiveGroup>

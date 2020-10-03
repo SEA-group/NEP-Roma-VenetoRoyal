@@ -1,0 +1,20 @@
+<IAF008_Re_2000_Roma_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/Veneto/ISB508_Roma/aircraft/lods/IAF008_Re_2000_Roma_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/aircraft/lods/IAF008_Re_2000_Roma_lod1	</nodefullVisual>
+	<animation>
+		<name>	CAA_aircraft_propeller_L	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/CAA_aircraft_propeller_L	</nodes>
+		<alpha>
+			<propeller_disk>	0.0000	</propeller_disk>
+		</alpha>
+	</animation>
+	<action>
+		<name>	start	</name>
+		<animation>	CAA_aircraft_propeller_L	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</IAF008_Re_2000_Roma_lod1.model>

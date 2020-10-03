@@ -1,6 +1,6 @@
 <ISB002_Roma_1943_Stern.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/Veneto/ISB508_Roma/ship/ISB002_Roma_1943_Stern_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/ship/lods/ISB002_Roma_1943_Stern_lod1	</parent>
 	<extent>	10.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/ship/ISB002_Roma_1943_Stern	</nodefullVisual>

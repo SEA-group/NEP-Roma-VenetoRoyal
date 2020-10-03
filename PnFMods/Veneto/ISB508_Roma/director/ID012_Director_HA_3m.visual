@@ -38,7 +38,7 @@
 			<primitive>	ID012_Director_HA_3m_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
 				</material>
 			</primitiveGroup>

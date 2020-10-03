@@ -29,7 +29,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunXDead	</identifier>
+					<identifier>	SHIPMATX_PBS_GunXDead	</identifier>
 					<mfm>	PnFMods/Veneto/ISB508_Roma/gun/IGS017_90mm50_barrels_1_M1939_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

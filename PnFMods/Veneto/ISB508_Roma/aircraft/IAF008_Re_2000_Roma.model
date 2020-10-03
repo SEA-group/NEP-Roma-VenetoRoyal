@@ -1,6 +1,6 @@
 <IAF008_Re_2000_Roma.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/Veneto/ISB508_Roma/aircraft/IAF008_Re_2000_Roma_lod1	</parent>
+	<parent>	PnFMods/Veneto/ISB508_Roma/aircraft/lods/IAF008_Re_2000_Roma_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<nodefullVisual>	PnFMods/Veneto/ISB508_Roma/aircraft/IAF008_Re_2000_Roma	</nodefullVisual>
 	<animation>
