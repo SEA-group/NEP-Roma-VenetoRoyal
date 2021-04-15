@@ -116,7 +116,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/aircraft/IAS001_IMAM_RO_43_Roma_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

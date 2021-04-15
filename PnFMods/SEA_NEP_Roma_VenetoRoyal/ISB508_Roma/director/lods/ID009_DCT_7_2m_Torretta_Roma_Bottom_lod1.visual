@@ -52,7 +52,7 @@
 			<primitive>	director_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID009_DCT_7_2m_Torretta_Roma_Bottom_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

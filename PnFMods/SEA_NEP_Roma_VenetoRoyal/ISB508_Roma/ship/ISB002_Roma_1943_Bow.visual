@@ -126,7 +126,7 @@
 			<primitive>	Bow_patch_MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/ISB002_Roma_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -140,7 +140,7 @@
 			<primitive>	Bow_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/ISB002_Roma_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

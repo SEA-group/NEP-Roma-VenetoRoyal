@@ -117,7 +117,7 @@
 			<primitive>	Stern_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/ISB002_Roma_1943_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

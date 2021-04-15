@@ -52,7 +52,7 @@
 			<primitive>	wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
