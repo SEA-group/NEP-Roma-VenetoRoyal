@@ -1,8 +1,0 @@
-<IAS001_IMAM_Ro_43_Roma_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/aircraft/lods/IAS001_IMAM_Ro_43_Roma_lod3	</parent>
-	<extent>	40.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/aircraft/lods/IAS001_IMAM_Ro_43_Roma_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</IAS001_IMAM_Ro_43_Roma_lod2.model>

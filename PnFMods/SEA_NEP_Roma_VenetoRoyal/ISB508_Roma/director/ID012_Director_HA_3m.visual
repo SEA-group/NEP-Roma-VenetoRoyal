@@ -1,61 +1,139 @@
 <ID012_Director_HA_3m.visual>
-	<boundingBox>
-		<min>	-0.145313 0.000000 -0.143488	</min>
-		<max>	0.145313 0.224375 0.123749	</max>
-	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	ID012_Director_HA_3m_Bow	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	wire	</identifier>
+				<identifier>	ID012_Director_HA_3m_Bow	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
+				<node>
+					<identifier>	wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	ID012_Director_HA_3m_Bow	</node>
-		<geometry>
-			<vertices>	ID012_Director_HA_3m_BowShape.vertices	</vertices>
-			<primitive>	ID012_Director_HA_3m_BowShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	wire	</node>
-		<geometry>
-			<vertices>	wireShape.vertices	</vertices>
-			<primitive>	wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIREX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
+	<boundingBox>
+		<min>	-0.145313 0.000000 -0.143488	</min>
+		<max>	0.145313 0.224375 0.123749	</max>
+	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	ID012_Director_HA_3m_BowShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ID012_Director_HA_3m_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	ID012_Director_HA_3m_Bow_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ID012_Director_HA_3m_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	ID012_Director_HA_3m_Bow_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ID012_Director_HA_3m_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	ID012_Director_HA_3m_Bow_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ID012_Director_HA_3m_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID012_Director_HA_3m_Bow.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	ID012_Director_HA_3m_BowShape	</renderSet>
+				<renderSet>	wireShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	6.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	ID012_Director_HA_3m_Bow_lod1Shape	</renderSet>
+				<renderSet>	wire_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	15.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	ID012_Director_HA_3m_Bow_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	70.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	ID012_Director_HA_3m_Bow_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </ID012_Director_HA_3m.visual>

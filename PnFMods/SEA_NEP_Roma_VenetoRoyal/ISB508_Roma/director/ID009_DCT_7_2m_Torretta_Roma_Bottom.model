@@ -1,8 +1,6 @@
 <ID009_DCT_7_2m_Torretta_Roma_Bottom.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/lods/ID009_DCT_7_2m_Torretta_Roma_Bottom_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID009_DCT_7_2m_Torretta_Roma_Bottom	</nodefullVisual>
+	<visual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID009_DCT_7_2m_Torretta_Roma_Bottom.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ID009_DCT_7_2m_Torretta_Roma_Bottom.model>

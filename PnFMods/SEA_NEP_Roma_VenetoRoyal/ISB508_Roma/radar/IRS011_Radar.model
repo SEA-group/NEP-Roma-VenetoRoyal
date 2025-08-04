@@ -1,8 +1,6 @@
 <IRS011_Radar.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/radar/lods/IRS011_Radar_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/radar/IRS011_Radar	</nodefullVisual>
-	<extent>	5.0000	</extent>
-	<castsShadow>	false	</castsShadow>
+	<visual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/radar/IRS011_Radar.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </IRS011_Radar.model>

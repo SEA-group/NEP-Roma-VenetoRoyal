@@ -1,8 +1,6 @@
 <ID007_Rilevatore_Tiro_2m.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/lods/ID007_Rilevatore_Tiro_2m_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID007_Rilevatore_Tiro_2m	</nodefullVisual>
-	<extent>	3.0000	</extent>
-	<castsShadow>	false	</castsShadow>
+	<visual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/director/ID007_Rilevatore_Tiro_2m.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ID007_Rilevatore_Tiro_2m.model>

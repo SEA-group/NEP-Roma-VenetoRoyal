@@ -1,9 +1,6 @@
 <IGS014_152mm55_barrels_3_M1936_L_dead.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/gun/lods/IGS014_152mm55_barrels_3_M1936_L_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/gun/IGS014_152mm55_barrels_3_M1936_L_dead	</nodefullVisual>
-	<materialNames />
+	<visual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/gun/IGS014_152mm55_barrels_3_M1936_L_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </IGS014_152mm55_barrels_3_M1936_L_dead.model>

@@ -1,8 +1,6 @@
 <ISB002_Roma_1943_Bow.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/lods/ISB002_Roma_1943_Bow_lod1	</parent>
-	<extent>	10.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/ISB002_Roma_1943_Bow	</nodefullVisual>
+	<visual>	PnFMods/SEA_NEP_Roma_VenetoRoyal/ISB508_Roma/ship/ISB002_Roma_1943_Bow.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ISB002_Roma_1943_Bow.model>
